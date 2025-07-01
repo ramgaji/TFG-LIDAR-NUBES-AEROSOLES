@@ -27,7 +27,7 @@ files = sorted([f for f in os.listdir(f"{data_path}") if f.endswith(".nc")])
 
 #  Bucle para procesar cada archivo .nc
 for nc_file in files:
-    print(f"🔄 Procesando archivo: {nc_file}")
+    print(f" Procesando archivo: {nc_file}")
 
     #  Cargar los datos desde el archivo seleccionado
     var = 'attenuated_backscatter_0'  # Variable a analizar

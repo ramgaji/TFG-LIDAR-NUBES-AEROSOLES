@@ -26,7 +26,7 @@ files = sorted([f for f in os.listdir(f"{data_path}") if f.endswith(".nc")])
 
 #  Bucle para procesar cada archivo .nc
 for nc_file in files:
-    print(f"🔄 Procesando archivo: {nc_file}")
+    print(f" Procesando archivo: {nc_file}")
 
     #  Cargar los datos desde el archivo seleccionado
     var = 'attenuated_backscatter_0'  # Variable a analizar
@@ -75,10 +75,10 @@ for nc_file in files:
     # *** Mapeo a 2 categorías (0/1) nube no nube o etiquetas sugeridas:
     # (7:moleculas,0:nubes,1: ruido y otros) ***
     category_mapping = {
-        1: 7,  # molecules
-        3: 7,  # molecules
+        1: 1,  # molecules
+        3: 1,  # molecules
         5: 1,  # noise
-        4: 5,  # aerosols
+        4: 1,  # aerosols
         2: 0,  # clouds
         6: 0,  # clouds
         0: 1,  # other
