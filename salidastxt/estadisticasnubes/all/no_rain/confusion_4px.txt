@@ -1,0 +1,12 @@
+Confusión — all — ±4 px (±239.1 m)
+
+TP: 108
+FP: 191
+FN: 33
+TN: 184
+
+Total: 516
+Accuracy: 56.59 %
+Precision: 36.12 %
+Recall: 76.60 %
+F1 score: 49.09 %

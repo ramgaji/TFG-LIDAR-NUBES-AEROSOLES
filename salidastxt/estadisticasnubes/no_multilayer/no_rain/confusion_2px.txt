@@ -1,0 +1,12 @@
+Confusión — no_multilayer — ±2 px (±119.5 m)
+
+TP: 29
+FP: 139
+FN: 29
+TN: 184
+
+Total: 381
+Accuracy: 55.91 %
+Precision: 17.26 %
+Recall: 50.00 %
+F1 score: 25.66 %
