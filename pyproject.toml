@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "ai-profiles"
+version = "0.1.0"
+description = ""
+authors = ["augustinm <augustinm@met.no>"]
+readme = "README.md"
+packages = [{include = "ai_profiles"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+xarray = "^2024.9.0"
+matplotlib = "^3.9.2"
+netcdf4 = "^1.7.1.post2"
+typer = "^0.12.5"
+rich = "^13.8.1"
+ipywidgets = "^8.1.5"
+scipy = "^1.14.1"
+opencv-python = "^4.10.0.84"
+scikit-learn = "^1.5.2"
+scikit-image = "^0.24.0"
+jolib = "^0.0.1"
+pyqt6 = "^6.7.1"
+joblib = "^1.4.2"
+hdbscan = "^0.8.39"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
