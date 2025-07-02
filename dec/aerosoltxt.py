@@ -24,7 +24,7 @@ import datetime
 # ---------------------------
 # CONFIGURACIÓN
 # ---------------------------
-data_path    = '../data'
+data_path    = './data'
 encoder_path = 'dec/encoder.keras'
 kmeans_path  = 'dec/kmeans.pkl'
 station_alt  = 680.0       # altitud de la estación en metros
