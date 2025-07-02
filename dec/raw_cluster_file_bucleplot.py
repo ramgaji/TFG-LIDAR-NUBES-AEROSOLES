@@ -19,7 +19,7 @@ from skimage.transform import resize
 import xarray as xr
 
 #   ruta de datos
-data_path = '../data'
+data_path = './data'
 
 #  Obtener la lista de archivos en la carpeta data (adaptado a granada)
 files = sorted([f for f in os.listdir(f"{data_path}") if f.endswith(".nc")])
