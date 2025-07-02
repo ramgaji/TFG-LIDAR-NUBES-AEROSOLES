@@ -1,6 +1,6 @@
 # TFG: LIDAR-Based Cloud & Aerosol Detection
 
-[![Python Version](https://img.shields.io/badge/python-3.7%E2%80%933.9-blue)](https://www.python.org/) [![Poetry ≥1.5](https://img.shields.io/badge/poetry-%3E%3D1.5-blueviolet)](https://python-poetry.org/) [![GPL v3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.7%E2%80%933.10-blue)](https://www.python.org/) [![Poetry ≥1.5](https://img.shields.io/badge/poetry-%3E%3D1.5-blueviolet)](https://python-poetry.org/) [![GPL v3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** project by Augustin Mortier (https://github.com/AugustinMortier/ai-profiles/). It provides Python scripts for processing LIDAR data to detect clouds and aerosols.
 
