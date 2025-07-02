@@ -23,7 +23,7 @@ This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** 
 ## Installation & Usage
 
 
-You can obtain the code in one of two ways:
+1. You can obtain the code in one of two ways:
 
 ### Option A: Clone via Git
 
