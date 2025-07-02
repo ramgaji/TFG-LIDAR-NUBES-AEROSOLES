@@ -54,7 +54,7 @@ This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** 
      > Edit the script to select k=2 or k=4.
 
      ```bash
-     poetry run python dec/raw_cluster_file_bucleplot4.py
+     poetry run python dec/raw_cluster_file_bucleplot.py
      ```
 
    * **Full 8-cluster segmentation (with feature panels):**
