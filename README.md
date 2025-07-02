@@ -35,13 +35,13 @@ cd TFG-LIDAR-AEROSOLES
 ### Option B: Download ZIP
 Go to the GitHub page:
 ```bash
-https://github.com/ramgaji/TFG-LIDAR-AEROSOLES
+https://github.com/ramgaji/TFG-LIDAR-NUBES-AEROSOLES
  ```
 Click Code → Download ZIP
 
 Unzip and navigate into the folder:
 ```bash
-cd path/to/TFG-LIDAR-AEROSOLES
+cd path/to/TFG-LIDAR-NUBES-AEROSOLES
 ```
 2. Install dependencies with Poetry:
 
