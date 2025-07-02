@@ -6,7 +6,7 @@ This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** 
 
 ## Key Features
 
-* 📊 Extract a 64×3 multilayer time series of cloud-base heights and cloud cluster base height
+* 📊 Extract a 64×3 multilayer time series of the NetCDF’s cloud_base_height (up to three layers per timestep) and derive the model’s cluster_base_height (the cloud-base height predicted by clustering)
 * 🌫️ Estimate the maximum aerosol height at each timestep
 * 🔍 Visualize results  (cloud vs. no-cloud), 4-cluster, and 8-cluster modes
 * 📈 Compute confusion-matrix metrics and summary statistics
