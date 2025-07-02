@@ -1,3 +1,14 @@
+"""
+aerosolestadisticas.py
+
+Carga la serie `alturamax_cluster_aerosol.txt` (tiempo × altura máxima de aerosol),
+genera un gráfico anual de la altura, define una función para extraer el máximo
+corroborado en rachas ≥3 valores iguales y calcula estadísticas por estación
+(e.g. media, desviación, error de la media, pico corroborado) tanto globales
+como separadas día/noche. Finalmente guarda todas las tablas en
+`salidastxt/estadisticasaerosol.txt`.
+"""
+
 import os
 import pandas as pd
 import numpy as np
