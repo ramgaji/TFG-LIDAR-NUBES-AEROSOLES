@@ -22,18 +22,33 @@ This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** 
 
 ## Installation & Usage
 
-1. Clone this repository and navigate to the project folder:
 
-   ```bash
-   git clone https://github.com/ramgaji/TFG-LIDAR-AEROSOLES.git
-   cd TFG-LIDAR-AEROSOLES
-   ```
+You can obtain the code in one of two ways:
 
+### Option A: Clone via Git
+
+```bash
+git clone https://github.com/ramgaji/TFG-LIDAR-AEROSOLES.git
+cd TFG-LIDAR-AEROSOLES
+
+ ```
+### Option B: Download ZIP
+Go to the GitHub page:
+```bash
+https://github.com/ramgaji/TFG-LIDAR-AEROSOLES
+ ```
+Click Code → Download ZIP
+
+Unzip and navigate into the folder:
+```bash
+cd path/to/TFG-LIDAR-AEROSOLES
+```
 2. Install dependencies with Poetry:
 
    ```bash
    poetry install
    ```
+
 
 3. Run the desired script using Poetry:
 
