@@ -1,6 +1,6 @@
 # TFG: LIDAR-Based Cloud & Aerosol Detection
 
-This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** project by Augustin Mortier (https://github.com/AugustinMortier/ai-profiles/). It provides Python scripts for processing LIDAR data to detect clouds and aerosols.
+This repository contains my Bachelor's thesis adaptation of the **AI-Profiles** project by Augustin Mortier (https://github.com/AugustinMortier/ai-profiles/). It provides Python scripts to process LIDAR data from the E-PROFILE network (https://e-profile.eu) for automated cloud and aerosol detection.
 
 ---
 
