@@ -91,7 +91,7 @@ cd path/to/TFG-LIDAR-AEROSOLES
 To ensure the images render correctly on GitHub, use the following Markdown syntax with the relative `images/` path:
 
 ```markdown
-<!-- cloud/aerosols LIDAR Profile with Cluster Overlay (4,8-Cluster Mode) -->
+<!-- cloud/aerosols LIDAR Profile with Cluster Overlay (2,4-Cluster Mode) -->
 ![Raw and Cluster Overlay](./images/L2_0-20008-0-UGR_A20240406_raw.png)
 
 <!-- Overlay of Clustered Image (8-Cluster) -->
@@ -118,7 +118,7 @@ TFG-LIDAR-AEROSOLES/
 ├── dec/                    # Python scripts
 │   ├── nubestxt.py
 │   ├── aerosoltxt.py
-│   ├── raw_cluster_file_bucleplot4.py
+│   ├── raw_cluster_file_bucleplot.py
 │   ├── raw_cluster_file_bucleplotk=8.py
 │   └── estadisticasconfusiones.py
 ├── pyproject.toml          # Poetry configuration
