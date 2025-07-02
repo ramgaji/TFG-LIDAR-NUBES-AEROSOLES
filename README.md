@@ -64,7 +64,7 @@ cd path/to/TFG-LIDAR-AEROSOLES
      poetry run python dec/aerosoltxt.py
      ```
 
-   * **Binary classification (cloud vs. no-cloud) or k=4 clustering (change manually):**
+   * **Binary classification (cloud vs. no-cloud) or k=4 clustering (change it manually):**
 
      > Edit the script to select k=2 or k=4.
 
